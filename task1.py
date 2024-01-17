@@ -46,3 +46,12 @@ print(f"\n{best_discountname} is applied={best_discount} discount")
 print(f"\nshippingfees={shippingfee}")
 print(f"\ngift wrap fee={totalwrappingfees}")
 print(f"\nTotal= {total}")
+
+
+
+
+# steps
+# >run the code in terminal
+# >then enter the product quantity and y/n for wrapping
+# >then you will be provided with the details
+
